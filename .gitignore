@@ -4,3 +4,10 @@ __pycache__
 .cache
 .coverage
 htmlcov
+insteon_mqtt.egg-info
+insteon_mqtt.egg-info/PKG-INFO
+insteon_mqtt.egg-info/SOURCES.txt
+insteon_mqtt.egg-info/dependency_links.txt
+insteon_mqtt.egg-info/not-zip-safe
+insteon_mqtt.egg-info/requires.txt
+insteon_mqtt.egg-info/top_level.txt
